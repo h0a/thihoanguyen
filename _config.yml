@@ -76,12 +76,15 @@ author:
 
 footer:
   links:
+    - label: "Mail"
+      icon: "si si-gmail"
+      url: "mailto:hoa.nguyen@ibnm.uni-hannover.de"
+    - label: "ResearchGate"
+      icon: "si si-researchgate"
+      url: "https://www.researchgate.net/profile/Thi_Hoa_Nguyen4"
     - label: "Gitlab"
       icon: "si si-gitlab" # fab fa-fw fa-gitlab
       url: "https://gitlab.com/hoa_ng"
-    - label: "GitHub"
-      icon: "si si-github"
-      url: "https://github.com/THoaNguye"
   location: "Hannover, Germany"
 
 

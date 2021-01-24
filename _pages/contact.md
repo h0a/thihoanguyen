@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 #### Write me an email! 
-<i class="si si-gmail"></i> [Gmail](mailto:nguyenhoa18121993@gmail.com), <i class="si si-minutemailer"></i> [university mail](mailto:hoa.nguyen@ibnm.uni-hannover.de)
+<i class="si si-gmail"></i> [Mail](mailto:hoa.nguyen@ibnm.uni-hannover.de)
 
 
 #### See more about me on
