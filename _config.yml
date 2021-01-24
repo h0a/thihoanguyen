@@ -83,8 +83,8 @@ footer:
       icon: "si si-researchgate"
       url: "https://www.researchgate.net/profile/Thi_Hoa_Nguyen4"
     - label: ""
-      icon: "si si-gitlab" # fab fa-fw fa-gitlab
-      url: "https://gitlab.com/hoa_ng"
+      icon: "si si-github" # fab fa-fw fa-gitlab
+      url: "https://github.com/THoaNguye"
   location: "Hannover, Germany"
 
 
