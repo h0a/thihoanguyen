@@ -1,5 +1,5 @@
 # page title and description
-title: MM
+title: T. Hoa Nguyen
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -51,9 +51,9 @@ plugins:
 
 # sidebar contents
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "T. Hoa Nguyen"
+  avatar : "/assets/images/nguyen.jpg"
+  bio    : "PhD student in Computational Mechanics at Leibniz University Hannover, Instutite of Mechanics and Computational Mechanics"
   links:
     - label: "Contact me!"
       icon: "si si-googlechat"
@@ -78,11 +78,11 @@ footer:
   links:
     - label: "Gitlab"
       icon: "si si-gitlab" # fab fa-fw fa-gitlab
-      url: "https://www.gitlab.com/"
+      url: "https://gitlab.com/hoa_ng"
     - label: "GitHub"
       icon: "si si-github"
-      url: "https://github.com/"
-  location: "Germany"
+      url: "https://github.com/THoaNguye"
+  location: "Hannover, Germany"
 
 
 # Collections

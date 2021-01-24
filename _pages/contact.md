@@ -8,22 +8,16 @@ redirect_from:
 ---
 
 #### Write me an email! 
-<i class="si si-gmail"></i> [Gmail](mailto:example@gmail.com), <i class="si si-minutemailer"></i> [office mail](mailto:example@gmail.com)
+<i class="si si-gmail"></i> [Gmail](mailto:nguyenhoa18121993@gmail.com), <i class="si si-minutemailer"></i> [university mail](mailto:hoa.nguyen@ibnm.uni-hannover.de)
 
 
 #### See more about me on
-<i class="si si-twitter"></i> [Twitter](https://twitter.com/)
-<i class="si si-instagram"></i> [Instagram](https://instagram.com/)
-<i class="si si-linkedin"></i> [Linkedin](https://linkedin.com)
+<i class="si si-researchgate"></i> [ResearchGate](https://www.researchgate.net/profile/Thi_Hoa_Nguyen4), 
+<i class="si si-scopus"></i> [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57214830763&amp;eid=2-s2.0-85092249295), 
+<i class="si si-orcid"></i> [ORCID](https://orcid.org/0000-0003-0519-5786),
 
+<i class="si si-linkedin"></i> [Linkedin](https://www.linkedin.com/in/thi-hoa-nguyen-270993160/), 
+<i class="si si-github"></i> [Github](https://github.com/THoaNguye),
+<i class="si si-gitlab"></i> [Gitlab](https://gitlab.com/hoa_ng), 
 
-<i class="si si-github"></i> [Github](https://www.github.com)
-<i class="si si-gitlab"></i> [Gitlab](https://www.gitlab.com)
-
-
-<i class="si si-researchgate si--white"></i> [ResearchGate](https://www.researchgate.net/)
-<i class="si si-scopus"></i> [Scopus](https://www.scopus.com/home.uri)
-<i class="si si-orcid"></i> [ORCID](https://orcid.org/) 
-
-and at our <i class="si si-internetarchive"></i> [institute](https://).
-
+and at <i class="si si-internetarchive"></i> [Institute of Mechanics and Computational Mechanics](https://www.ibnm.uni-hannover.de/en/nguyenhoa/).

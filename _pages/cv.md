@@ -9,37 +9,36 @@ redirect_from:
 ---
 
 <h3> <i class="si si-googlescholar"></i> Education</h3> 
-Ph.D., major xx, University xx
-  * Date
-  * Thesis
-  * Advisor
+M.Sc., Civil Engineering, Technical University of Munich, Germany
+  * March, 2019
+  * Thesis: Efficient Hybrid Time-Frequency-Domain Method for
+Nonlinear Soil-Structure-Interaction Systems Subjected to Seismic Loads
+  * Supervisor: Dr.-Ing. Francesca Taddei
 
-B.Sc., major xx, University xx
-  * Date
-  * Thesis
-  * Advisor
-
-M.Sc.
-  * Date
-  * Thesis
-  * Advisor
+B.Sc., Civil Engineering, University of Applied Science for Engineering and Economics Berlin, Germany
+  * Oktober, 2016
+  * Thesis: Investigation of a Freestanding Crane Way Structure (German)
 
 <h3> <i class="si si-googlesearchconsole"></i> Employment</h3> 
-20xx - 20xx
-  * where
-  * short description
-  * reference
+2019-now: Research assistant at Instutite of Mechanics and Computational Mechanics, Leibniz University Hannover, Germany
+  * Finite element methods in the context of isogeometric analysis, shell analysis, immersed finite element methods
+  * Supervisor: Prof. Dr.-Ing. Dominik Schillinger
+
+2018 - 2019: Student research assistant at Chair of Structural Mechanics, Technical University of Munich, Germany
+  * Integration transformation method (ITM) and finite element method (FEM) for soil-structure-interaction in seismic load cases
+  * Supervisor: Dr.-Ing. Francesca Taddei
+
+2013 - 2015: Student research and teaching assistant at University of Applied Science for Engineering and Economics Berlin, Germany
+  * Mentor for students in Linear Algebra 
+  * Research assistant in experiments of innovative concrete material
 
 <h3> <i class="si si-spreaker"></i> Honors and Awards</h3> 
-* Preis 1
-* Preis 2
+* Outstanding master thesis: The Stiftung Maurer Soehne Award 2020, from the Maurer Soehne Foundation. For "Efficient Hybrid Time-Frequency-Domain Method for Nonlinear Soil-Structure-Interaction Systems subjected to Seismic Loads
+* Master student scholarship: 2100,0 Euro from the Hans-Rudolf-Foundation for 2017-2018
+* Graduation scholarship for international students: 800,0 Euro from the German Academic Exchange Service (DAAD) for bachelor thesis "Investigation of a Freestanding Crane Way Structure" (German), 2016
 
 <h3> <i class="si si-semaphoreci"></i> Skill</h3> 
-* Programming
-* Tools
-* Languages
-
-
-<h3> <i class="si si-riotgames"></i> Service and leadership</h3> 
-* Currently signed in to xx different slack teams
+* Programming language: Julia, Matlab, C++
+* Tools: Git, LaTeX
+* Language: English, German, Vietnamese
 
