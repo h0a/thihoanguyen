@@ -57,10 +57,10 @@ author:
   links:
     - label: "Contact me!"
       icon: "si si-googlechat"
-      url : ""
+      url : "/contact"
     - label: "More about me"
       icon: "si si-myspace"
-      url : ""
+      url : "/contact"
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://"
