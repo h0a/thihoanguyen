@@ -58,7 +58,7 @@ author:
     - label: "Contact me!"
       icon: "si si-googlechat"
       url : "{{ site.atom_feed.path }}{{ '/contact' }}"
-    - label: "and more about me."
+    - label: "More about me."
       icon: "si si-myspace"
       url : "{{ site.atom_feed.path }}{{ '/contact' }}"
     # - label: "Website"
