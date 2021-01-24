@@ -16,7 +16,7 @@
       {% endfor %}
     {% endif %}
 
-    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="si si-rss" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="si si-rss" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "" }}</a></li>
   </ul>
 </div>
 
