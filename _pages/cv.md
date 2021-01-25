@@ -8,7 +8,7 @@ redirect_from:
   - /cv.html
 ---
 
-<h3> <i class="si si-googlescholar"></i> Education</h3> 
+<h3> <i class="si si-microsoftacademic"></i> Education</h3> 
 M.Sc., Civil Engineering, Technical University of Munich, Germany
   * March, 2019
   * Thesis: Efficient Hybrid Time-Frequency-Domain Method for
