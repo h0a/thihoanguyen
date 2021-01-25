@@ -37,8 +37,8 @@ B.Sc., Civil Engineering, University of Applied Science for Engineering and Econ
 * Master student scholarship: 2100,0 Euro from the Hans-Rudolf-Foundation for 2017-2018
 * Graduation scholarship for international students: 800,0 Euro from the German Academic Exchange Service (DAAD) for bachelor thesis "Investigation of a Freestanding Crane Way Structure" (German), 2016
 
-<h3> <i class="si si-semaphoreci"></i> Skill</h3> 
-* Programming language: Julia, Matlab, C++
-* Tools: Git, LaTeX
-* Language: English, German, Vietnamese
+<h3> <i class="si si-semaphoreci"></i> Professional skills</h3> 
+* Programming language: Julia, MATLAB, C++
+* Tools: Git, LaTeX, Visual Studio Code
+* Language: English (fluent), German (fluent), Vietnamese (native)
 
