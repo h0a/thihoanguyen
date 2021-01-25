@@ -52,7 +52,7 @@ plugins:
 # sidebar contents
 author:
   name   : "T. Hoa Nguyen"
-  avatar : "/assets/images/nguyen2.jpg"
+  avatar : "/assets/images/nguyen4.jpg"
   bio    : "PhD student in Computational Mechanics at Leibniz University Hannover, Instutite of Mechanics and Computational Mechanics"
   links:
     - label: "Contact me!"
