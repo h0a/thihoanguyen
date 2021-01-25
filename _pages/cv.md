@@ -32,7 +32,7 @@ B.Sc., Civil Engineering, University of Applied Science for Engineering and Econ
   * Mentor for students in Linear Algebra 
   * Research assistant in experiments of innovative concrete material
 
-<h3> <i class="si si-spreaker"></i> Honors and Awards</h3> 
+<h3> <i class="si si-auth0"></i> Honors and Awards</h3> 
 * Outstanding master thesis: The Stiftung Maurer Soehne Award 2020, from the Maurer Soehne Foundation. For "Efficient Hybrid Time-Frequency-Domain Method for Nonlinear Soil-Structure-Interaction Systems subjected to Seismic Loads
 * Master student scholarship: 2100,0 Euro from the Hans-Rudolf-Foundation for 2017-2018
 * Graduation scholarship for international students: 800,0 Euro from the German Academic Exchange Service (DAAD) for bachelor thesis "Investigation of a Freestanding Crane Way Structure" (German), 2016
