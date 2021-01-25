@@ -9,7 +9,7 @@ Except for access logs containing the access time, the ip address and browser in
 
 
 ##### Licensing
-This website is hosted on [GitHub](https://github.com/) with user contributions licensed by [MIT LICENSE](https://opensource.org/licenses/MIT) with attribution required.
+This website is hosted on [GitHub](https://github.com/) with user contributions licensed by [MIT License](https://opensource.org/licenses/MIT) with attribution required.
 
 
 ##### Imprint
