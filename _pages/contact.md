@@ -20,4 +20,4 @@ redirect_from:
 <i class="si si-github"></i> [Github](https://github.com/THoaNguye),
 <i class="si si-gitlab"></i> [Gitlab](https://gitlab.com/hoa_ng), 
 
-<i class="si si-internetarchive"></i> [Institute of Mechanics and Computational Mechanics](https://www.ibnm.uni-hannover.de/en/nguyenhoa/).
+<i class="si si-internetarchive"></i> [Institute of Mechanics and Computational Mechanics](https://www.ibnm.uni-hannover.de/en/nguyenhoa/), Leibniz University Hannover.
