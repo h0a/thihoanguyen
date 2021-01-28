@@ -34,8 +34,8 @@ B.Sc., Civil Engineering, University of Applied Science for Engineering and Econ
 
 <h3> <i class="si si-auth0"></i> Honors and Awards</h3> 
 * Outstanding master thesis: [The Stiftung Maurer Soehne Award 2020](https://www.bgu.tum.de/en/faculty/awards/award-winners/), from the Maurer Soehne Foundation. For "Efficient Hybrid Time-Frequency-Domain Method for Nonlinear Soil-Structure-Interaction Systems Subjected to Seismic Loads"
-* Master student scholarship: 2100,0 Euro from the Hans-Rudolf-Foundation for 2017-2018
-* Graduation scholarship for international students: 800,0 Euro from the German Academic Exchange Service (DAAD) for bachelor thesis "Investigation of a Freestanding Crane Way Structure" (German), 2016
+* Master student scholarship: 2100,0 Euro from the [Hans-Rudolf-Foundation](https://hans-rudolf-stiftung.de/) for 2017-2018
+* DAAD graduation scholarship for international students: 800,0 Euro from [University of Applied Science for Engineering and Economics Berlin](https://www.htw-berlin.de/studium/studienorganisation/finanzierung/stipendium/daad-studienabschluss-stipendium-fuer-internationale-studierende/) for bachelor thesis "Investigation of a Freestanding Crane Way Structure" (German), 2016
 
 <h3> <i class="si si-semaphoreci"></i> Professional skills</h3> 
 * Computer languages: Julia, MATLAB, C++
