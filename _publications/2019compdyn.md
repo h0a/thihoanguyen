@@ -10,7 +10,7 @@ excerpt: 'COMPDYN Proceeding. 7th International Conference on Computational Meth
 </div> 
 
 <div class="small">
-   Authors: F. Taddei, <strong>T.H. Nguyen</strong> , and G. Mueller.
+   Authors: F. Taddei, <u><strong>T.H. Nguyen</strong></u> , and G. Mueller.
 </div><br/>
 [PDF](http://mediatum.ub.tum.de/doc/1509983/1509983.pdf)
 
