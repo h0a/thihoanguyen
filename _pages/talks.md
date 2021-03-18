@@ -3,6 +3,9 @@ layout: archive
 title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
+redirect_from: 
+  - /md/
+  - /talks.html
 ---
 
 <!-- If you have talk posts in /_talks/, used layout class defined in /_includes/archive-single.html
@@ -12,6 +15,10 @@ author_profile: true
 {% endfor %} -->
 
 I also present my works at international conferences. Below is an overview of my talks. 
+
+{% for post in site.talks reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 
  ### Variationally consistent framework for higher-order imperfect interface models of thin layers
