@@ -24,7 +24,6 @@ I also present my works at international conferences. Below is an overview of my
 
 <details>
   <summary>Read more.</summary>
-  [GAMM2020@21](https://jahrestagung.gamm-ev.de/index.php/2020/2020-annual-meeting) (online conference). <br/>
   <br/>
   In composite structures, thin films and coatings are typically used to prevent damage or to increase structure durability. Direct numerical simulation of their mechanical response requires extreme fine mesh sizes and is thus computationally expensive. Therefore, a finite-thickness interphase model is often approximated by an interface model of zero thickness, based on the reformulation of its mechanical effects as jump conditions in the relevant fields [1]. In this talk, we present a) an extension of an existing first-order into a new higher-order accurate interface model which involves higher-order differential operators in the jump formulation; and b) a variationally consistent framework combining higher-order smooth spline basis functions and cut finite element methods for its numerical approximation [2]. We demonstrate robustness and accuracy of this framework via a two-dimensional Laplace problem with a thin circular
   interphase.<br/>
