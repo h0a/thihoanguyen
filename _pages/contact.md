@@ -19,7 +19,7 @@ redirect_from:
 <i class="si si-orcid"></i> [ORCID](https://orcid.org/0000-0003-0519-5786),
 
 <i class="si si-linkedin"></i> [Linkedin](https://de.linkedin.com/in/thi-hoa-nguyen-270993160), 
-<i class="si si-github"></i> [Github](https://github.com/THoaNguye),
+<i class="si si-github"></i> [Github](https://github.com/T-Hoa-Nguyen),
 <i class="si si-gitlab"></i> [Gitlab](https://gitlab.com/hoa_ng), 
 
 <i class="si si-internetarchive"></i> [Institute of Mechanics and Computational Mechanics, Leibniz University Hannover](https://www.ibnm.uni-hannover.de/en/nguyenhoa/).
