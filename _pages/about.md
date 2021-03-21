@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "T. Hoa Nguyen"
-excerpt: "T. Hoa Nguyen"
+title: "Thi Hoa Nguyen"
+excerpt: "Thi Hoa Nguyen"
 author_profile: true
 redirect_from: 
   - /about/
