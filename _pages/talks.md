@@ -30,8 +30,8 @@ I also present my works at international conferences. Below is an overview of my
   interphase.<br/>
   <br/>
   <b>References</b>:<br/>
-  <br/>
-  [1] Y. Benveniste and T. Miloh (2001): Imperfect soft and stiff interfaces in two-dimensional elasticity. Mechanics of Materials, 33:309-323, 2001<br/>
+
+  [1] Y. Benveniste and T. Miloh (2001): Imperfect soft and stiff interfaces in two-dimensional elasticity. Mechanics of Materials, 33:309-323, 2001.<br/>
 
   [2] Z. Han, S.K.F. Stoter, C.T. Wu, C. Cheng, A. Mantzaflaris, S. Mogilevskaya, D. Schillinger (2019): Consistent discretization of higher-order interface models for thin layers and elastic material surfaces, enabled by isogeometric cut-cell methods. Computer Methods in Applied Mechanics and Engineering, 350:245-267, 2019.
 </details>
