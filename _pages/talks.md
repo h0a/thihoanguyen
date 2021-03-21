@@ -22,6 +22,7 @@ I also present my works at international conferences. Below is an overview of my
    International Association of Applied Mathematics and Mechanics (GAMM2020@21), March 15-19, 2021, Kassel, Germany.
 </div> 
 
+<div class="small">
 <details>
   <summary>Read more.</summary>
   <br/>
@@ -34,4 +35,4 @@ I also present my works at international conferences. Below is an overview of my
 
   [2] Z. Han, S.K.F. Stoter, C.T. Wu, C. Cheng, A. Mantzaflaris, S. Mogilevskaya, D. Schillinger (2019): Consistent discretization of higher-order interface models for thin layers and elastic material surfaces, enabled by isogeometric cut-cell methods. Computer Methods in Applied Mechanics and Engineering, 350:245-267, 2019.
 </details>
-
+</div> 
