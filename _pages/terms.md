@@ -5,7 +5,7 @@ title: "Terms and Privacy"
 
 
 ##### Privacy
-Except for access logs containing the access time, the ip address and browser information, no other user data is being collected. The collected data is disposed every two weeks and is used only to maintain the server and track down possible problems, if any errors occur.
+Except for access logs containing the access time, the IP address and browser information, no other user data is being collected. The collected data is disposed every two weeks and is used only to maintain the server and track down possible problems, if any errors occur.
 
 
 ##### Licensing
