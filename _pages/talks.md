@@ -13,8 +13,9 @@ redirect_from:
 {% for post in site.talks reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
-
+<div class="small">
 I also present my works at international conferences. Below is an overview of my talks. 
+</div> 
 
 
 <h4>Variationally consistent framework for higher-order imperfect interface models of thin layers</h4>
