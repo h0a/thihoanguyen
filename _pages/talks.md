@@ -18,7 +18,7 @@ I also present my works at international conferences. Below is an overview of my
 </div> 
 
 
-<h4>Variationally consistent framework for higher-order imperfect interface models of thin layers</h4>
+<h6>Variationally consistent framework for higher-order imperfect interface models of thin layers</h6>
 <div class="small">
    International Association of Applied Mathematics and Mechanics (GAMM2020@21), March 15-19, 2021, Kassel, Germany.
 </div> 
