@@ -8,18 +8,20 @@ redirect_from:
   - /cv.html
 ---
 
-<h3> <i class="si si-microsoftacademic"></i> Education</h3> 
+<h4> <i class="si si-microsoftacademic"></i> Education</h4> 
 M.Sc., Civil Engineering, Technical University of Munich, Germany
-  * March, 2019
+<div class="small">
+  <li> March, 2019</li>
   * Thesis: Efficient Hybrid Time-Frequency-Domain Method for
 Nonlinear Soil-Structure-Interaction Systems Subjected to Seismic Loads
   * Supervisor: Dr.-Ing. Francesca Taddei
+</div>
 
 B.Sc., Civil Engineering, University of Applied Science for Engineering and Economics Berlin, Germany
   * Oktober, 2016
   * Thesis: Investigation of a Freestanding Crane Way Structure (German)
 
-<h3> <i class="si si-googlesearchconsole"></i> Employment</h3> 
+<h4> <i class="si si-googlesearchconsole"></i> Employment</h4> 
 2019 - present: Research assistant at Instutite of Mechanics and Computational Mechanics, Leibniz University Hannover, Germany
   * Finite element methods in the context of isogeometric analysis, shell analysis, immersed finite element methods
   * Supervisor: Prof. Dr.-Ing. Dominik Schillinger
@@ -32,12 +34,12 @@ B.Sc., Civil Engineering, University of Applied Science for Engineering and Econ
   * Mentor for students in Linear Algebra 
   * Research assistant in experiments of innovative concrete material
 
-<h3> <i class="si si-auth0"></i> Honors and Awards</h3> 
+<h4> <i class="si si-auth0"></i> Honors and Awards</h4> 
 * Outstanding master thesis: [The Stiftung Maurer Soehne Award 2020](https://www.bgu.tum.de/en/faculty/awards/award-winners/), from the Maurer Soehne Foundation. For "Efficient Hybrid Time-Frequency-Domain Method for Nonlinear Soil-Structure-Interaction Systems Subjected to Seismic Loads"
 * Master student scholarship: 2100,0 Euro from the [Hans-Rudolf-Foundation](https://hans-rudolf-stiftung.de/) for 2017-2018
 * DAAD graduation scholarship for international students: 800,0 Euro from [University of Applied Science for Engineering and Economics Berlin](https://www.htw-berlin.de/studium/studienorganisation/finanzierung/stipendium/daad-studienabschluss-stipendium-fuer-internationale-studierende/) for bachelor thesis "Investigation of a Freestanding Crane Way Structure" (German), 2016
 
-<h3> <i class="si si-semaphoreci"></i> Professional skills</h3> 
+<h4> <i class="si si-semaphoreci"></i> Professional skills</h4> 
 * Computer languages: Julia, MATLAB, C++
 * Tools: Git, LaTeX, Visual Studio Code
 * Languages: English (fluent), German (fluent), Vietnamese (native)
