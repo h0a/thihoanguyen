@@ -10,7 +10,7 @@ excerpt: 'Computer Methods in Applied Mechanics and Engineering, 2021 (Under rev
 </div>
 
 <div class="small">
-   Authors: <u><strong>Thi-Hoa Nguyen</strong></u>, René R. Hiemstra, D. Schillinger. 
+   Authors: <u><strong>T.H. Nguyen</strong></u>, R.R. Hiemstra, D. Schillinger. 
 </div><br/>
 [[arXiv preprint](https://arxiv.org/pdf/2106.03114.pdf)]
 
