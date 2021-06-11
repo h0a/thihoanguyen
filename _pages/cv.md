@@ -19,27 +19,28 @@ Nonlinear Soil-Structure-Interaction Systems Subjected to Seismic Loads</li>
 
 B.Sc., Civil Engineering, University of Applied Science for Engineering and Economics Berlin, Germany
 <div class="small">
-  <li> Oktober, 2016
-  <li> Thesis: Investigation of a Freestanding Crane Way Structure (German)
+  <li> Oktober, 2016</li>
+  <li> Thesis: Investigation of a Freestanding Crane Way Structure (German)</li>
 </div>
+
 
 <h5> <i class="si si-googlesearchconsole"></i> Employment</h5> 
 2019 - present: Research assistant at Instutite of Mechanics and Computational Mechanics, Leibniz University Hannover, Germany
 <div class="small">
-  <li> Finite element methods in the context of isogeometric analysis, shell analysis, immersed finite element methods
-  <li> Supervisor: Prof. Dr.-Ing. Dominik Schillinger
+  <li> Finite element methods in the context of isogeometric analysis, shell analysis, immersed finite element methods</li>
+  <li> Supervisor: Prof. Dr.-Ing. Dominik Schillinger</li>
 </div>
 
 2018 - 2019: Student research assistant at Chair of Structural Mechanics, Technical University of Munich, Germany
 <div class="small">
-  <li> Integration transformation method (ITM) and finite element method (FEM) for soil-structure-interaction in seismic load cases
-  <li> Supervisor: Dr.-Ing. Francesca Taddei
+  <li> Integration transformation method (ITM) and finite element method (FEM) for soil-structure-interaction in seismic load cases</li>
+  <li> Supervisor: Dr.-Ing. Francesca Taddei</li>
 </div>
 
 2013 - 2015: Student research and teaching assistant at University of Applied Science for Engineering and Economics Berlin, Germany
 <div class="small">
-  <li> Mentor for students in Linear Algebra 
-  <li> Research assistant in experiments of innovative concrete material
+  <li> Mentor for students in Linear Algebra </li>
+  <li> Research assistant in experiments of innovative concrete material</li>
 </div>
 
 <h5> <i class="si si-auth0"></i> Honors and Awards</h5> 
