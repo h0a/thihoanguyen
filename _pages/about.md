@@ -9,8 +9,8 @@ redirect_from:
 ---
 #### About
 
-<div class="small">
-I am a PhD student in Computational Mechanics in the research group of [Prof. Schillinger](https://www.ibnm.uni-hannover.de/de/schillinger/) at the Institute of Mechanics and Computational Mechanics (IBNM) at Leibniz University Hannover, Germany. I have a background with M.Sc. in Civil Engineering from the Technical University of Munich. I also hold a B.Sc. in Civil Engineering from University of Applied Science for Engineering and Economics Berlin.
+<div class="medium">
+I am a PhD student in Computational Mechanics in the research group of <a href="https://www.ibnm.uni-hannover.de/de/schillinger/">Prof. Schillinger</a> at the Institute of Mechanics and Computational Mechanics (IBNM) at Leibniz University Hannover, Germany. I have a background with M.Sc. in Civil Engineering from the Technical University of Munich. I also hold a B.Sc. in Civil Engineering from University of Applied Science for Engineering and Economics Berlin.
 </div>
 
 #### My research interest
