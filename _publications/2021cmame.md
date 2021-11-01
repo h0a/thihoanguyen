@@ -2,7 +2,7 @@
 title: "3, Leveraging spectral analysis to elucidate membrane locking and unlocking in isogeometric finite element formulations of the curved Euler-Bernoulli beam"
 collection: publications
 permalink: /publications/2021cmame
-excerpt: 'Computer Methods in Applied Mechanics and Engineering, 2021 (Under review). Read more.'
+excerpt: 'Computer Methods in Applied Mechanics and Engineering, 2021. Read more.'
 ---
 
 <div class="small">
