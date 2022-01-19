@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 #### Write me an email! 
-<i class="si si-gmail"></i> [Mail](mailto:hoa.nguyen@ibnm.uni-hannover.de)
+<i class="si si-gmail"></i> [Mail](mailto:nguyen@mechanik.tu-darmstadt.de)
 
 
 #### See more about me on
@@ -22,4 +22,4 @@ redirect_from:
 <i class="si si-github"></i> [Github](https://github.com/h0a),
 <i class="si si-gitlab"></i> [Gitlab](https://gitlab.com/hoa_ng), 
 
-<i class="si si-internetarchive"></i> [Institute of Mechanics and Computational Mechanics, Leibniz University Hannover](https://www.ibnm.uni-hannover.de/en/nguyenhoa/).
+<i class="si si-internetarchive"></i> [Institute of Mechanics, Technical University of Darmstadt](https://www.solmech.tu-darmstadt.de/fachgebiet_festkoerpermechanik/index.de.jsp).

@@ -20,7 +20,11 @@ B.Sc., Civil Engineering, University of Applied Science for Engineering and Econ
   * Thesis: Investigation of a Freestanding Crane Way Structure (German)
 
 <h5> <i class="si si-googlesearchconsole"></i> Employment</h5> 
-2019 - present: Research assistant at Instutite of Mechanics and Computational Mechanics, Leibniz University Hannover, Germany
+2021 - present: Research assistant at Instutite of Mechanics, Computational Mechanics Group, Technical University of Darmstadt, Germany
+  * Finite element methods in the context of isogeometric analysis, shell analysis, explicit dynamics
+  * Supervisor: Prof. Dr.-Ing. Dominik Schillinger
+
+2019 - 2021: Research assistant at Instutite of Mechanics and Computational Mechanics, Leibniz University Hannover, Germany
   * Finite element methods in the context of isogeometric analysis, shell analysis, immersed finite element methods
   * Supervisor: Prof. Dr.-Ing. Dominik Schillinger
 
