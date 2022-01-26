@@ -2,16 +2,16 @@
 title: "4, A variational approach based on perturbed eigenvalue analysis for improving spectral properties of isogeometric multipatch discretizations"
 collection: publications
 permalink: /publications/2021cmame_outlier
-excerpt: 'Computer Methods in Applied Mechanics and Engineering, 2021 (under review). Read more.'
+excerpt: 'Computer Methods in Applied Mechanics and Engineering, 2021 (accepted). Read more.'
 ---
 
 
 <div class="small">
-   Computer Methods in Applied Mechanics and Engineering, 2021 (under review).
+   Computer Methods in Applied Mechanics and Engineering, 2021 (accepted).
 </div>
 
 <div class="small">
-   Authors: <u><strong>T.H. Nguyen</strong></u>, R.R. Hiemstra, Stein K. F. Stoter, D. Schillinger. 
+   Authors: <u><strong>T.-H. Nguyen</strong></u>, R.R. Hiemstra, Stein K. F. Stoter, D. Schillinger. 
 </div><br/>
 [[arXiv](https://arxiv.org/abs/2111.06501)]
 
