@@ -72,9 +72,6 @@ redirect_from:
 
 
 <h6> <i class="si si-auth0"></i> Honors and Awards</h6> 
-* Outstanding master thesis from the Stiftung Maurer Soehne Munich, 2020
-* Scholarship for young students from the Hans-Rudolf-Foundation, 2018-2019
-* DAAD graduation scholarship for international students, University of Applied Science for Engineering and Economics Berlin, Germany, 2016
 <div class="small">
     <ul>
       <li><b>Outstanding master thesis</b> from the Stiftung Maurer Soehne Munich, 2020</li>
