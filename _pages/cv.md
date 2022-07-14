@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 <h5> <i class="si si-microsoftacademic"></i> Education</h5> 
+<div class="small">
 M.Sc., Civil Engineering, Technical University of Munich, Germany
   * March, 2019
   * Thesis: Efficient Hybrid Time-Frequency-Domain Method for
@@ -20,6 +21,7 @@ B.Sc., Civil Engineering, University of Applied Science for Engineering and Econ
   * Oktober, 2016
   * Thesis: Investigation of a Freestanding Crane Way Structure (German)
   * Graduation with distinction
+</div> 
 
 <h5> <i class="si si-googlesearchconsole"></i> Professional Experience</h5> 
 01/2021 - present: Research assistant at Instutite for Mechanics, Computational Mechanics Group, Technical University of Darmstadt, Germany

@@ -19,7 +19,7 @@ I also present my works at international conferences. Below is an overview of my
 
 
 <!-- WCCM 2022 -->
-<h6>A Variational approach based on perturbed eigenvalue analysis for improving spectral properties of isogeometric multipatch discretizations</h6>
+<h6>A variational approach based on perturbed eigenvalue analysis for improving spectral properties of isogeometric multipatch discretizations</h6>
 <div class="small">
    15th World Congress on Computational Mechanics (WCCM XV - APCOM-VIII), July 31-August 5, 2022, Yokohama, Japan.
 </div> 
