@@ -10,7 +10,7 @@ redirect_from:
 #### About
 
 <div class="medium">
-I am a PhD student in Computational Mechanics in the research group of <a href="https://www.bauing.tu-darmstadt.de/fachbereich_bau_umwelt/ueber_den_fachbereich/professoren____innen_am_fb/professorenliste_details_115392.en.jsp">Prof. Schillinger</a> at the Institute of Mechanics, Computational Mechanics Group at Technical University of Darmstadt, Germany. I have a background with M.Sc. in Civil Engineering from the Technical University of Munich. I also hold a B.Sc. in Civil Engineering from University of Applied Science for Engineering and Economics Berlin.
+I am a PhD student in Computational Mechanics in the research group of <a href="https://www.bauing.tu-darmstadt.de/fachbereich_bau_umwelt/ueber_den_fachbereich/professoren____innen_am_fb/professorenliste_details_115392.en.jsp">Prof. Schillinger</a> at the Institute for Mechanics, Computational Mechanics Group at Technical University of Darmstadt, Germany. I have a background with M.Sc. in Civil Engineering from the Technical University of Munich. I also hold a B.Sc. in Civil Engineering from University of Applied Science for Engineering and Economics Berlin.
 </div>
 
 #### My research interest
