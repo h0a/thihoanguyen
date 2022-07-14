@@ -8,17 +8,18 @@ redirect_from:
   - /cv.html
 ---
 
-<h5> <i class="si si-microsoftacademic"></i> Education</h5> 
+<h6> <i class="si si-microsoftacademic"></i> Education</h6> 
 <div class="small">
-M.Sc., Civil Engineering, Technical University of Munich, Germany<br/>
-    Thesis: Efficient Hybrid Time-Frequency-Domain Method for Nonlinear Soil-Structure-Interaction Systems Subjected to Seismic Loads <br/>
-    Supervisor: Dr.-Ing. Francesca Taddei<br/>
-    Graduation with distinction<br/>
+<b>M.Sc., Civil Engineering</b>, Technical University of Munich, Germany<br/>
+           Thesis: Efficient Hybrid Time-Frequency-Domain Method for Nonlinear Soil-Structure-Interaction Systems Subjected to Seismic Loads <br/>
+           Supervisor: Dr.-Ing. Francesca Taddei<br/>
+           Graduation with distinction<br/>
 <br/>
-B.Sc., Civil Engineering, University of Applied Science for Engineering and Economics Berlin, Germany
-  * Oktober, 2016
-  * Thesis: Investigation of a Freestanding Crane Way Structure (German)
-  * Graduation with distinction
+<b>B.Sc., Civil Engineering</b>, University of Applied Science for Engineering and Economics Berlin, Germany<br/>
+<ul>
+  <li>Thesis: Investigation of a Freestanding Crane Way Structure (German)</li>
+  <li>Graduation with distinction</li>
+</ul>
 </div> 
 
 <h5> <i class="si si-googlesearchconsole"></i> Professional Experience</h5> 
