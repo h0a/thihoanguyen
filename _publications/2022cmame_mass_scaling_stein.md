@@ -2,12 +2,12 @@
 title: "5, Variationally consistent mass scaling for explicit time-integration schemes of lower- and higher-order finite element methods"
 collection: publications
 permalink: /publications/2022cmame_mass_scaling_stein
-excerpt: 'Computer Methods in Applied Mechanics and Engineering, 2022 (under review). Read more.'
+excerpt: 'Computer Methods in Applied Mechanics and Engineering, 2022. Read more.'
 ---
 
 
 <div class="small">
-   Computer Methods in Applied Mechanics and Engineering, 2022 (under review).
+   Computer Methods in Applied Mechanics and Engineering, 2022.
 </div>
 
 <div class="small">
