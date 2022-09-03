@@ -22,4 +22,4 @@ redirect_from:
 <i class="si si-github"></i> [Github](https://github.com/h0a),
 <i class="si si-gitlab"></i> [Gitlab](https://gitlab.com/hoa_ng), 
 
-<i class="si si-internetarchive"></i> [Institute of Mechanics, Technical University of Darmstadt](https://www.solmech.tu-darmstadt.de/fachgebiet_festkoerpermechanik/index.de.jsp).
+<i class="si si-internetarchive"></i> [Institute of Mechanics, Technical University of Darmstadt](https://www.mechanik.tu-darmstadt.de/institut_mech/team_mech/nguyen.de.jsp).

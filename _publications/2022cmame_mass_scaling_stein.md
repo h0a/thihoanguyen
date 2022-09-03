@@ -11,7 +11,7 @@ excerpt: 'Computer Methods in Applied Mechanics and Engineering, 2022. Read more
 </div>
 
 <div class="small">
-   Authors: Stein K. F. Stoter, <u><strong>T.-H. Nguyen</strong></u>, R.R. Hiemstra, D. Schillinger. 
+   Authors: S. K. F. Stoter, <u><strong>T.-H. Nguyen</strong></u>, R.R. Hiemstra, D. Schillinger. 
 </div><br/>
 [[arXiv](https://arxiv.org/abs/2201.10475)] [[doi](https://doi.org/10.1016/j.cma.2022.115310)]
 
