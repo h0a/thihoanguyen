@@ -19,9 +19,11 @@ I also present my works at international conferences. Below is an overview of my
 
 
 
-<!-- GACM 2022 -->
+<!-- GACM 2022 + IGA 2022 -->
 <h6>Spectral analysis for assessing membrane locking and unlocking in isogeometric finite element formulations of the curved Euler-Bernoulli beam</h6>
 <div class="small">
+   10th International Conference on Isogeometric Analysis (IGA2022), November 6-9, Banff, Canada.
+
    9th GACM Colloquium on Computational Mechanics, September 21-23, 2022, Essen, Germany.
 </div> 
 
