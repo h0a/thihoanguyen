@@ -30,7 +30,7 @@ redirect_from:
 
 <h6> <i class="si si-googlesearchconsole"></i> Professional Experience</h6>
 <div class="small"> 
-01/2021 - present: <b>Graduate research assistant</b>, Instutite for Mechanics, Computational Mechanics Group, Technical University of Darmstadt, Germany<br/>
+01/2022 - present: <b>Graduate research assistant</b>, Instutite for Mechanics, Computational Mechanics Group, Technical University of Darmstadt, Germany<br/>
 <ul>
   <li>Research and development in isogeometric analysis methods, focusing on thin-walled structures and explicit dynamics</li>
   <li>Supervisor: Prof. Dr.-Ing. Dominik Schillinger</li>
