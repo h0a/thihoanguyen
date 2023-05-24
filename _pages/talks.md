@@ -19,6 +19,53 @@ I also present my works at international conferences. Below is an overview of my
 
 
 
+<!-- IGA 2023 -->
+<h6>An isogeometric Petrov-Galerkin formulation with approximate dual spline functions and mass lumping for higher-order accurate explicit 
+dynamics of shells</h6>
+<div class="small">
+   11th International Conference on Isogeometric Analysis (IGA2023), June 18-21, Lyon, France.
+</div> 
+
+
+<div class="small">
+<details>
+  <summary>Read more.</summary>
+  <br/>
+  In structural dynamics, particularly in crash and metal forming simulations, explicit methods have broad applications. Commercial codes of these computations, such as LS-DYNA, PAM-CRASH, and RADIOSS, rely on three key ingredients to achieve highly efﬁcient transient calculations: (1) low memory requirements; (2) an efﬁcient solve; and (3) relatively large critical time-step values. These ingredients are present in contemporary linear finite element codes based on mass lumping [1]. In this talk, we present a higher order accurate mass lumping technique within the context of isogeometric analysis. Our method uses compactly supported test functions that are ''approximate'' dual functionals of B-splines [2]. Because these dual functionals are linear combinations of the same B-splines, the spanning test space remains unaltered. Lumping the Galerkin mass matrix yields an identity matrix, eliminating the need for matrix inversion. We discuss two approaches that weakly and strongly enforce the essential boundary conditions without losing variational consistency and negatively affecting the accuracy. We demonstrate via numerical examples of thin-walled structures in explicit dynamics settings that using our approach retains high order accuracy. This is further supported by good spectrum properties and high efficiency of the explicit scheme.<br/>
+  <br/>
+  <b>References</b>:<br/>
+
+  [1] Hughes, T. J. R., The Finite Element Method: Linear Static and Dynamic Finite Element Analysis. Dover Publications, 2003.<br/>
+
+  [2] Chui, C. K., He, W., and Stöckler, J., Nonstationary tight wavelet frames, I: Bounded intervals. Applied and Computational Harmonic Analysis (2004) 17 (2): 141–197.
+</details>
+</div> 
+
+
+
+
+<!-- GAMM 2023 -->
+<h6>Nonlinear dynamic analysis of rods precluding shear and torsion with isogeometric discretizations</h6>
+<div class="small">
+   93rd Annual Meeting of the International Association of Applied Mathematics and Mechanics, May 30-June 2, 2023, Dresden, Germany.
+</div> 
+
+<div class="small">
+<details>
+  <summary>Read more.</summary>
+  <br/>
+  In this work, we investigate, in the context of isogeometric analysis (IGA) [1], the recently developed formulation of nonlinear rods exhibiting only axial and bending deformations introduced in [2]. We utilize the higher-order continuity of smooth spline functions which naturally fulfill the $C^1$ continuity required by the nonlinear formulation of [2]. The number of discrete variable fields, compared to the standard spatial discretization scheme using cubic $C^1$ Hermite polynomials in the same reference, thus can be reduced. The resulting discrete solution belongs to $(\mathbb{R}^3)^m$ that is larger than the manifold $(\mathbb{R}^3 ×S^2)^n$ of the standard scheme, however, might not preserve the same manifold structure. Inspired by [2], we employ the implicit time integration scheme that is a hybrid combination of the midpoint and trapezoidal rules. It approximately preserves the energy and exactly preserves the linear angular momentum, and thus is efficient and robust for our investigation. We demonstrate, via two- and three-dimensional numerical examples of rods, that isogeometric discretizations of the same polynomial degree and smoothness are less robust than the standard spatial discretization scheme using Hermite polynomials. Their robustness can be improved by using, for instance, the strong approach of outlier removal, or by reducing the time step. We illustrate, via an example of a swinging rod under non- and conservative, and pulsating forces, that the improved discretization scheme thus can be employed for highly nonlinear cases. We also show that the configuration-dependent mass matrix of the studied formulation behaves irregularly and thus cannot be simplified to a conﬁguration-independent one.<br/>
+  <br/>
+  <b>References</b>:<br/>
+
+  [1] T. J. R. Hughes, J. A. Cottrell, Y. Bazilevs, Isogeometric analysis: CAD, finite elements, NURBS, exact geometry and mesh refinement. Computer Methods in Applied Mechanics and Engineering 194 (39) (2005) 4135–4195.<br/>
+
+  [2] C. G. Gebhardt, I. Romero, On a nonlinear rod exhibiting only axial and bending deformations: mathematical modeling and numerical implementation. Acta Mechanica 232 (10) (2021) 3825–3847.
+</details>
+</div> 
+
+
+
 <!-- GACM 2022 + IGA 2022 -->
 <h6>Spectral analysis for assessing membrane locking and unlocking in isogeometric finite element formulations of the curved Euler-Bernoulli beam</h6>
 <div class="small">
