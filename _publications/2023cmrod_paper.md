@@ -2,12 +2,12 @@
 title: "7, Nonlinear dynamic analysis of shear- and torsion-free rods using isogeometric discretization, outlier removal and robust time integration"
 collection: publications
 permalink: /publications/2023cm_rod_paper
-excerpt: 'Submitted to Computational Mechanics, 2023. Read more.'
+excerpt: 'Computational Mechanics (under review), 2023. Read more.'
 ---
 
 
 <div class="small">
-   Submitted to Computational Mechanics, 2023.
+   Computational Mechanics (under review), 2023.
 </div>
 
 <div class="small">
