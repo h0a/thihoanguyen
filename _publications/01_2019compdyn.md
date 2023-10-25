@@ -1,7 +1,7 @@
 ---
 title: "1, Hybrid frequency-time domain method for three-dimensional seismic analyses of nonlinear soils"
 collection: publications
-permalink: /publications/2019compdyn
+permalink: /publications/01_2019compdyn
 excerpt: 'COMPDYN Proceeding. 7th International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering, 2019, Greece. Read more.'
 ---
 

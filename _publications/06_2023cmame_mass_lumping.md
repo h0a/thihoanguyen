@@ -1,7 +1,7 @@
 ---
 title: "6, Towards higher-order accurate mass lumping in explicit isogeometric analysis for structural dynamics"
 collection: publications
-permalink: /publications/2023cmame_mass_lumping
+permalink: /publications/06_2023cmame_mass_lumping
 excerpt: 'Computer Methods in Applied Mechanics and Engineering, 2023. Read more.'
 ---
 

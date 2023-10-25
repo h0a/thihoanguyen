@@ -1,7 +1,7 @@
 ---
 title: "4, A variational approach based on perturbed eigenvalue analysis for improving spectral properties of isogeometric multipatch discretizations"
 collection: publications
-permalink: /publications/2021cmame_outlier
+permalink: /publications/04_2021cmame_outlier
 excerpt: 'Computer Methods in Applied Mechanics and Engineering, 2022. Read more.'
 ---
 
