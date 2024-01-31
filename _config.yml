@@ -53,7 +53,7 @@ plugins:
 author:
   name   : "T. Hoa Nguyen"
   avatar : "/assets/images/nguyen_hoch.jpg"
-  bio    : "PhD student in Computational Mechanics at Technical University of Darmstadt, Instutite of Mechanics, Computational Mechanics Group"
+  bio    : "Postdoctoral Researcher at University of Bergen, Bergen Offshore Wind Center (BOW)"
   links:
     - label: "Contact me!"
       icon: "si si-googlechat"
@@ -78,7 +78,7 @@ footer:
   links:
     - label: ""
       icon: "si si-gmail"
-      url: "mailto:nguyen@mechanik.tu-darmstadt.de"
+      url: "mailto:th1.h0a.nguy3n@gmail.com"
     - label: ""
       icon: "si si-googlescholar"
       url: "https://scholar.google.de/citations?hl=de&user=B0J3wBwAAAAJ"
@@ -88,7 +88,7 @@ footer:
     - label: ""
       icon: "si si-github" # fab fa-fw fa-gitlab
       url: "https://github.com/h0a"
-  location: "Darmstadt, Germany"
+  location: "Bergen, Norway"
 
 
 # Collections
