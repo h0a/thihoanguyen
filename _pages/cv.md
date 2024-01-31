@@ -10,6 +10,15 @@ redirect_from:
 
 <h6> <i class="si si-microsoftacademic"></i> Education</h6> 
 <div class="small">
+<b>Ph.D. (Dr.-Ing.), Civil Engineering, Computational Mechanics</b>, Technical University of Darmstadt, Germany<br/>
+    <ul>
+      <li>Thesis: Higher-order accurate and locking-free explicit dynamics in isogeometric structural analysis</li>
+      <li>Supervisor: Prof. Dr.-Ing. Dominik Schillinger</li>
+      <li>Graduation with distinction</li>
+    </ul>
+
+<br/>
+
 <b>M.Sc., Civil Engineering</b>, Technical University of Munich, Germany<br/>
     <ul>
       <li>Thesis: Efficient Hybrid Time-Frequency-Domain Method for Nonlinear Soil-Structure-Interaction Systems Subjected to Seismic Loads</li>
@@ -30,13 +39,21 @@ redirect_from:
 
 <h6> <i class="si si-googlesearchconsole"></i> Professional Experience</h6>
 <div class="small"> 
-01/2022 - present: <b>Graduate research assistant</b>, Instutite for Mechanics, Computational Mechanics Group, Technical University of Darmstadt, Germany<br/>
+02/2024 - present: <b>Postdoctoral researcher</b>, Bergen Offshore Wind Center (BOW), University of Bergen, Norway<br/>
+<ul>
+  <li>Research and development of data-driven approaches in aerohydroelastic analysis of offshore wind turbines</li>
+  <li>Advisor: Prof. Cristian G. Gebhardt</li>
+</ul>
+
+<br/>
+
+01/2022 - 12/2023: <b>Graduate research assistant</b>, Instutite for Mechanics, Computational Mechanics Group, Technical University of Darmstadt, Germany<br/>
 <ul>
   <li>Research and development in isogeometric analysis methods, focusing on thin-walled structures and explicit dynamics</li>
   <li>Supervisor: Prof. Dr.-Ing. Dominik Schillinger</li>
 </ul>
 
-  <br/>
+<br/>
 
 05/2022 - 07/2022: <b>Visiting researcher</b>, Bergen Offshore Wind Center, University of Bergen, Norway<br/>
 <ul>
