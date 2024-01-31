@@ -10,7 +10,7 @@ redirect_from:
 #### About
 
 <div class="medium">
-I am a postdoctoral researcher in the research group of <a href="https://www.uib.no/en/persons/Cristian.Guillermo.Gebhardt">Prof. Gebhardt</a> at Bergen Offshore Wind Center (BOW) at University of Bergen, Norway. I received my PhD in Computational Mechanics in 2023, based on my research in the group of <a href="https://www.mechanik.tu-darmstadt.de/institut_mech/team_mech/schillinger.de.jsp">Prof. Schillinger</a> at the Institute for Mechanics, Computational Mechanics Group at Technical University of Darmstadt, Germany.I have a background with M.Sc. in Civil Engineering from the Technical University of Munich. I also hold a B.Sc. in Civil Engineering from University of Applied Science for Engineering and Economics Berlin.
+I am a postdoctoral researcher in the research group of <a href="https://www.uib.no/en/persons/Cristian.Guillermo.Gebhardt">Prof. Gebhardt</a> at Bergen Offshore Wind Center (BOW) at University of Bergen, Norway. I received my Ph.D. in Computational Mechanics in 2023, based on my research in the group of <a href="https://www.mechanik.tu-darmstadt.de/institut_mech/team_mech/schillinger.de.jsp">Prof. Schillinger</a> at the Institute for Mechanics, Computational Mechanics Group at Technical University of Darmstadt, Germany.I have a background with M.Sc. in Civil Engineering from the Technical University of Munich. I also hold a B.Sc. in Civil Engineering from University of Applied Science for Engineering and Economics Berlin.
 </div>
 
 #### My research interest
