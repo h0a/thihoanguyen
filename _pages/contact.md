@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 #### Write me an email! 
-<i class="si si-gmail"></i> [Mail](mailto:nguyen@mechanik.tu-darmstadt.de)
+<i class="si si-gmail"></i> [Mail](mailto:hoa.nguyen@uib.no)
 
 
 #### See more about me on
