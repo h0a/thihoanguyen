@@ -18,6 +18,27 @@ I also present my works at international conferences. Below is an overview of my
 </div> 
 
 
+<!-- ECCOMAS 2024 -->
+<h6>An isogeometric nonlinear formulation for shear- and torsion-free rods using outlier removal and robust time integration</h6>
+<div class="small">
+   9th European Congress on Computational Methods in Applied Sciences and Engineering (ECCOMAS), June 3-7, 2024, Lisbon, Portugal.
+</div> 
+
+<div class="small">
+<details>
+  <summary>Read more.</summary>
+  <br/>
+  In this work, we present an isogeometric nonlinear formulation based on the nonlinear shear- and torsion-free rods introduced by Gebhardt and Romero in [1] employing robust time integration and outlier removal approach. Omitting the director as an independent variable field, we reduce the number of degrees of freedom and obtain discrete solutions in multiple copies of the Euclidean space (R3), which is larger than the corresponding multiple copies of the manifold (R3 ×S2) obtained with standard Hermite finite elements. For implicit time integration, we choose a hybrid form of the mid-point rule and the trapezoidal rule that preserves the linear and angular momentum exactly and approximates the energy accurately. In addition, we apply a recently introduced approach for outlier removal by Hiemstra et al. [2] that reduces high-frequency content in the response without affecting the accuracy, ensuring robustness of our nonlinear discrete formulation. We illustrate the efficiency of our nonlinear discrete formulation for static and transient rods under different loading conditions, demonstrating good accuracy in space, time and the frequency domain. Our numerical example coincides with a relevant application case, the simulation of mooring lines.<br/>
+  <br/>
+  <b>References</b>:<br/>
+
+  [1] C. G. Gebhardt, I. Romero, On a nonlinear rod exhibiting only axial and bending deformations: mathematical modeling and numerical implementation. Acta Mechanica 232 (10) (2021) 3825–3847.<br/>
+  
+  [2] R. R. Hiemstra, T. J. R. Hughes, A. Reali, D. Schillinger, Removal of spurious outlier frequencies and modes from isogeometric discretizations of second- and fourth-order problems in one, two, and three dimensions. Computer Methods in Applied Mechanics and Engineering 387 (2021) 114115.
+
+</details>
+</div> 
+
 
 <!-- IGA 2023 -->
 <h6>An isogeometric Petrov-Galerkin formulation with approximate dual spline functions and mass lumping for higher-order accurate explicit 
@@ -47,7 +68,7 @@ dynamics of shells</h6>
 <!-- GAMM 2023 -->
 <h6>Nonlinear dynamic analysis of rods precluding shear and torsion with isogeometric discretizations</h6>
 <div class="small">
-   93rd Annual Meeting of the International Association of Applied Mathematics and Mechanics, May 30-June 2, 2023, Dresden, Germany.
+   93rd Annual Meeting of the International Association of Applied Mathematics and Mechanics (GAMM), May 30-June 2, 2023, Dresden, Germany.
 </div> 
 
 <div class="small">

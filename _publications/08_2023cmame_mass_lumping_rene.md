@@ -2,12 +2,12 @@
 title: "8, Higher order accurate mass lumping for explicit isogeometric methods based on approximate dual basis functions"
 collection: publications
 permalink: /publications/08_2023cmame_mass_lumping_rene
-excerpt: 'Computer Methods in Applied Mechanics and Engineering (under review), 2023. Read more.'
+excerpt: 'Computational Mechanics (under review), 2024. Read more.'
 ---
 
 
 <div class="small">
-   Computer Methods in Applied Mechanics and Engineering (under review), 2023.
+   Computational Mechanics (under review), 2024.
 </div>
 
 <div class="small">
