@@ -52,7 +52,7 @@ plugins:
 # sidebar contents
 author:
   name   : "T. Hoa Nguyen"
-  avatar : "/assets/images/nguyen_hoch.jpg"
+  avatar : "/assets/images/nguyen_fig.png"
   bio    : "Postdoctoral Researcher at University of Bergen, Bergen Offshore Wind Center (BOW)"
   links:
     - label: "Contact me!"
