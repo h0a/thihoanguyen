@@ -11,7 +11,7 @@ excerpt: ' International Journal for Numerical Methods in Engineering (under rev
 </div>
 
 <div class="small">
-   Authors: <u><strong>T.-H. Nguyen</strong></u>, B.A. Roccia, D. Schillinger, C.C. Gebhardt. 
+   Authors: <u><strong>T.-H. Nguyen</strong></u>, B.A. Roccia, D. Schillinger, C.G. Gebhardt. 
 </div><br/>
 [[arXiv](https://doi.org/10.48550/arXiv.2412.20132)]
 
