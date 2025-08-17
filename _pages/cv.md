@@ -88,9 +88,11 @@ redirect_from:
 
 
 
-<h6> <i class="si si-auth0"></i> Honors and Awards</h6> 
+<h6> <i class="si si-auth0"></i> Stipends and awards</h6> 
 <div class="small">
     <ul>
+      <li><b>Momentum career development programme</b> for early stage researchers, University of Bergen, 2025-2026.</li> 
+      <li><b>L. Meltzer’s travel grant</b> (L. Meltzer’s Universitetsstiftelse) and <b>UiB-Equinor travel grant</b> (Akademiaavtalen) for international conferences, University of Bergen, 2025-2026.</li>   
       <li><b>Best dissertation</b> at the Department of Civil and Environmental Engineering from the Vereinigung von Freunden der TU Darmstadt, 2024</li>
       <li><b>Outstanding master thesis</b> from the Stiftung Maurer Soehne Munich, 2020</li>
       <li><b>Scholarship for young students</b> from the Hans-Rudolf-Foundation, 2018-2019</li>
