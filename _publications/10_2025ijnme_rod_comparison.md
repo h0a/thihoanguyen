@@ -2,12 +2,12 @@
 title: "10, A study on nodal and isogeometric formulations for nonlinear dynamics of shear- and torsion-free rods"
 collection: publications
 permalink: /publications/10_2025ijnme_rod_comparison
-excerpt: ' International Journal for Numerical Methods in Engineering (under review), 2025. Read more.'
+excerpt: ' International Journal for Numerical Methods in Engineering (accepted), 2025. Read more.'
 ---
 
 
 <div class="small">
-    International Journal for Numerical Methods in Engineering (under review), 2025.
+    International Journal for Numerical Methods in Engineering (accepted), 2025.
 </div>
 
 <div class="small">
