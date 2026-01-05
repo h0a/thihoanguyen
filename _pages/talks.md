@@ -18,6 +18,33 @@ I also present my works at international conferences. Below is an overview of my
 </div> 
 
 
+<!-- APCOM-ACCM 2025 -->
+<h6>Data-driven geometrically exact beam elements for structural analysis of mooring lines in offshore wind applications: Solving strategies – Accuracy and computational cost</h6>
+<div class="small">
+   The 9th Asian Pacific Congress on Computational Mechanics/The 7th Australasian Conference on Computational Mechanics (APCOM-ACCM), December 7-10, 2025, Brisbane, Australia.
+</div> 
+
+<div class="small">
+<details>
+  <summary>Read more.</summary>
+  <br/>
+  Recently, data-driven computational mechanics has emerged as a promising and powerful approach that enables the direct employment of raw experimental data in structural analysis, for instance data on the constitutive relations. In this work, we extend our solving strategy, introduced in our previous work [1], for structural analysis using data-driven geometrically exact beam elements (see e.g. [2]). In particular, we combine a greedy optimization algorithm and the alternating direction method (ADM), i.e. the standard direct data-driven solver for nonlinear systems [3], and refer to this as the GO-ADM solving strategy [1,4]. We apply our GO-ADM solving strategy to the structural analysis of two- and three-dimensional structures, considering different constitutive datasets. We show that for these examples, our solving strategy generally achieves a better approximation of the globally optimal solution. This, however, comes at the expense of higher computational cost which is scaled by the number of “greedy” searches.<br/>
+  <br/>
+  <b>References</b>:<br/>
+
+  [1] V. H. Gjerde, A data-driven model for the analysis of geometrically nonlinear one-dimensional structures, Master’s thesis, University of Bergen (2025).<br/>
+
+  [2] C. G. Gebhardt, D. Schillinger , M. C. Steinbach, R. Rolfes, A framework for Data-Driven Structural Analysis in general elasticity based on nonlinear optimization: The static case, CMAME 365 (2020) 112993.<br/>
+
+  [3] T. Kirchdoerfer, M. Ortiz, Data-driven computational mechanics, CMAME 304 (2016) 81–101.<br/>
+
+  [4] T.-H. Nguyen, V. H. Gjerde, B. A. Roccia, C. G. Gebhardt, Solving strategies for data-driven one-dimensional elasticity exhibiting nonlinear strains, arXiv: 2512.19912, 2025.
+
+</details>
+</div> 
+
+
+
 <!-- ECCOMAS 2024 -->
 <h6>An isogeometric nonlinear formulation for shear- and torsion-free rods using outlier removal and robust time integration</h6>
 <div class="small">
