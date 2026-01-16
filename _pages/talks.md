@@ -213,7 +213,7 @@ vibrations. Computer Methods in Applied Mechanics and Engineering (2006) 195 (41
 <!-- DeepWind 2025 -->
 <h6>FEM formulations for nonlinear dynamics of shear- and torsion-free rods in mooring line applications</h6>
 <div class="small">
-   [Poster (PDF)](/assets/posters/DeepWind2025_Poster.pdf). EERA DEEPWIND 2025, January 15-17, 2025, Trondheim, Norway.
+   EERA DEEPWIND 2025, January 15-17, 2025, Trondheim, Norway.
 </div> 
 
 <a href="/assets/posters/DeepWind2025_Poster.pdf" class="btn btn--primary">View Poster (PDF)</a>
