@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Talks, presentations, and posters"
 permalink: /talks/
 author_profile: true
 redirect_from: 
@@ -14,9 +14,13 @@ redirect_from:
   {% include archive-single.html %}
 {% endfor %} -->
 <div class="small">
-I also present my works at international conferences. Below is an overview of my talks. 
+I also present my works at international conferences. Below is an overview of my talks and posters.  
 </div> 
 
+
+<h4>
+<u>Presentations</u>
+</h4>
 
 <!-- APCOM-ACCM 2025 -->
 <h6>Data-driven geometrically exact beam elements for structural analysis of mooring lines in offshore wind applications: Solving strategies – Accuracy and computational cost</h6>
@@ -188,4 +192,24 @@ vibrations. Computer Methods in Applied Mechanics and Engineering (2006) 195 (41
 
   [2] Z. Han, S.K.F. Stoter, C.T. Wu, C. Cheng, A. Mantzaflaris, S. Mogilevskaya, D. Schillinger (2019): Consistent discretization of higher-order interface models for thin layers and elastic material surfaces, enabled by isogeometric cut-cell methods. Computer Methods in Applied Mechanics and Engineering, 350:245-267, 2019.
 </details>
+</div> 
+
+
+
+
+<h4>
+<u>Posters</u>
+</h4>
+
+<!-- DeepWind 2026 -->
+<h6>A novel disruptive data-driven approach for mooring line modeling and design in floating offshore wind</h6>
+<div class="small">
+   [Poster (PDF)](/assets/posters/DeepWind2026_Poster.pdf). EERA DEEPWIND 2026, January 14-16, 2026, Trondheim, Norway.
+</div> 
+
+
+<!-- DeepWind 2025 -->
+<h6>FEM formulations for nonlinear dynamics of shear- and torsion-free rods in mooring line applications</h6>
+<div class="small">
+   [Poster (PDF)](/assets/posters/DeepWind2025_Poster.pdf). EERA DEEPWIND 2025, January 15-17, 2025, Trondheim, Norway.
 </div> 
