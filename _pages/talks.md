@@ -204,8 +204,10 @@ vibrations. Computer Methods in Applied Mechanics and Engineering (2006) 195 (41
 <!-- DeepWind 2026 -->
 <h6>A novel disruptive data-driven approach for mooring line modeling and design in floating offshore wind</h6>
 <div class="small">
-   [Poster (PDF)](/assets/posters/DeepWind2026_Poster.pdf). EERA DEEPWIND 2026, January 14-16, 2026, Trondheim, Norway.
-</div> 
+   EERA DEEPWIND 2026, January 14-16, 2026, Trondheim, Norway.
+</div>
+
+<embed src="https://https://github.com/h0a/thihoanguyen/blob/master/assets/posters/DeepWind2025_Poster.pdf" type="application/pdf" />
 
 
 <!-- DeepWind 2025 -->
