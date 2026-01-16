@@ -207,7 +207,7 @@ vibrations. Computer Methods in Applied Mechanics and Engineering (2006) 195 (41
    EERA DEEPWIND 2026, January 14-16, 2026, Trondheim, Norway.
 </div>
 
-<a href="/assets/posters/DeepWind2026_Poster.pdf" class="btn btn--primary">View Poster (PDF)</a>
+<a href="/assets/posters/DeepWind2026_Poster.pdf" class="btn btn--dark">View Poster (PDF)</a>
 
 
 <!-- DeepWind 2025 -->
