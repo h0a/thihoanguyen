@@ -22,6 +22,31 @@ I also present my works at international conferences. Below is an overview of my
 <u>Presentations</u>
 </h4>
 
+<!-- Africomp 2026 -->
+<h6>Supervised and unsupervised machine learning methods for structural analysis of mooring lines in offshore applications</h6>
+<div class="small">
+   The 7th African Conference on Computational Mechanics (AfriComp), February 24-27, 2026, Cape Town, South Africa.
+</div> 
+
+<div class="small">
+<details>
+  <summary>Read more.</summary>
+  <br/>
+  Accurate modeling of material properties is a key challenge in structural analysis due to their complexity and nonlinearity. Recently, supervised and unsupervised machine learning methods have emerged as promising tools to address this challenge, offering the potential to improve our understanding and modeling capabilities. In this work, we aim to evaluate the performance in terms of computational robustness and accuracy of structural responses obtained with supervised and unsupervised machine learning methods based on a feed-forward neural network [1] and data-driven computational mechanics [2, 3], respectively. We train the former using stress-strain data points representing experimental data and structural responses obtained with established constitutive models. To develop the latter, we reformulate the governing equations in a data-driven setting, using the stress-strain data points directly for the computations. We benchmark and compare these two models, first in the case of linear behavior based on Hook’s law, and then investigate their performance for nonlinear material behavior. We focus on applications to mooring lines for floating wind turbines and floating wind farms, which are modeled with a bar formulation exhibiting nonlinear strains.<br/>
+  <br/>
+  <b>References</b>:<br/>
+
+  [1] S. Ye, B. Li, Q. Li, H.-P. Zhao and X.-Q. Feng, Deep neural network method for predicting the mechanical properties of composites. Appl. Phys. Lett., 115, 161901, 2019.<br/>
+
+  [2] T. Kirchdoerfer, M. Ortiz, Data-driven computational mechanics, CMAME 304 (2016) 81–101.<br/>
+
+  [3] C. G. Gebhardt, D. Schillinger , M. C. Steinbach, R. Rolfes, A framework for Data-Driven Structural Analysis in general elasticity based on nonlinear optimization: The static case, CMAME 365 (2020) 112993.
+
+</details>
+</div> 
+
+
+
 <!-- APCOM-ACCM 2025 -->
 <h6>Data-driven geometrically exact beam elements for structural analysis of mooring lines in offshore wind applications: Solving strategies – Accuracy and computational cost</h6>
 <div class="small">
