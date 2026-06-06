@@ -11,7 +11,7 @@ excerpt: ' Marine Structures, 2025. Read more.'
 </div>
 
 <div class="small">
-   Authors: B.A. Roccia, <u><strong>H.T. Nguyen</strong></u>, P. Veseth, F.G. Nielsen, C.G. Gebhardt. 
+   Authors: B.A. Roccia, <u><strong>T.-H. Nguyen</strong></u>, P. Veseth, F.G. Nielsen, C.G. Gebhardt. 
 </div><br/>
 [[arXiv](https://doi.org/10.48550/arXiv.2502.10256)], [[doi](https://doi.org/10.1016/j.marstruc.2025.103883)]
 
