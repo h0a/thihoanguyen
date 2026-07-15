@@ -2,12 +2,12 @@
 title: "12, Solving strategies for data-driven one-dimensional elasticity exhibiting nonlinear strains"
 collection: publications
 permalink: /publications/12_2026icas_data_driven_bar
-excerpt: ' Computer & Structure (accepted), 2026. Read more.'
+excerpt: ' Computer & Structure, 2026. Read more.'
 ---
 
 
 <div class="small">
-    Computer & Structure (accepted), 2026.
+    Computer & Structure, 2026.
 </div>
 
 <div class="small">
