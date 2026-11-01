@@ -22,6 +22,34 @@ I also present my works at international conferences. Below is an overview of my
 <u>Presentations</u>
 </h4>
 
+<!-- WCCM-ECCOMAS 2026 -->
+<h6>A data-driven solving strategy based on greedy optimization for geometrically exact beams</h6>
+<div class="small">
+   The 17th World Congress on Computational Mechanics/The 10th European Congress on Computational Methods in Applied Sciences and Engineering (WCCM-ECCOMAS), July 19-24, 2026, Munich, Germany.
+</div> 
+
+<div class="small">
+<details>
+  <summary>Read more.</summary>
+  <br/>
+  In the last decade, data-driven computational mechanics (DDCM) [1] has emerged as a novel paradigm in computational mechanics, enabling the direct use of constitutive data – such as stress-strain pairs obtained from experiments, without relying on ad-hoc material models and thereby avoiding information loss. In this work, we extend the data-driven solving strategy GO-ADM [2,3], which combines a greedy optimization algorithm with the alternating direction method (ADM), to the structural analysis of geometrically exact beams formulated using director-based kinematics. We discuss a data initialization strategy for nonlinear systems based on a conventional finite element analysis of the same structure using a prescribed constitutive model. The resulting discrete stress and strain fields, possibly obtained under multiple loading scenarios, may also be employed as artificial datasets for the subsequent data-driven computations. Furthermore, we investigate thermomechanical consistency [4] of both the dataset and the discrete solution, and propose a weak enforcement of this consistency in the latter via a penalty approach. Numerical examples involving single- and multi-beam structures demonstrate that the proposed penalty term leads to thermomechanically consistent discrete stress and strain fields. Moreover, for the studied examples, the solving strategy GO-ADM yields a generally improved approximation of the globally optimal solution compared to the standard ADM-based direct solver [1,5].<br/>
+  <br/>
+  <b>References</b>:<br/>
+
+  [1] Kirchdoerfer, T., Ortiz, M., Data-driven computational mechanics, Comput. Methods Appl. Mech. Eng., Vol. 304, pp. 81–101, 2016.<br/>
+
+  [2] Gjerde, V. H., A data-driven model for the analysis of geometrically nonlinear one-dimensional structures, Master’s thesis, University of Bergen, 2025.<br/>
+
+  [3] Nguyen, T.-H., Gjerde, V. H., Roccia, B. A., Gebhardt, C. G., Solving strategies for data-driven one-dimensional elasticity exhibiting nonlinear strains, arXiv: 2512.19912, 2025.<br/>
+
+  [4] Gebhardt, C. G., Steinbach, M. C., On the mathematical structure and solvability of certain Hilbert space optimization problems in data-driven elasticity, Appl. Math. Lett., Vol. 172, 109739, 2026.<br/>
+
+  [5] Nguyen, L. T. K., Keip, M.-A., A data-driven approach to nonlinear elasticity, Comput. Struct., Vol. 194, pp. 97-115, 2018.
+
+</details>
+</div>
+
+
 <!-- Africomp 2026 -->
 <h6>Supervised and unsupervised machine learning methods for structural analysis of mooring lines in offshore applications</h6>
 <div class="small">
