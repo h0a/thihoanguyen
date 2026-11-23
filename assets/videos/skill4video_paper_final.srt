@@ -1,0 +1,67 @@
+1
+00:00:00,300 --> 00:00:03,710
+In strong earthquakes, soil softens —
+
+2
+00:00:03,880 --> 00:00:06,430
+yet efficient methods model it
+
+3
+00:00:06,430 --> 00:00:08,840
+as a one-dimensional column.
+
+4
+00:00:09,640 --> 00:00:12,965
+But real seismic waves are three-dimensional,
+
+5
+00:00:13,060 --> 00:00:16,285
+and fully nonlinear time-domain simulations
+
+6
+00:00:16,285 --> 00:00:17,550
+are costly.
+
+7
+00:00:18,660 --> 00:00:23,060
+We extend the hybrid frequency–time method to 3D.
+
+8
+00:00:23,280 --> 00:00:26,040
+An integral transform solution
+
+9
+00:00:26,040 --> 00:00:28,470
+delivers three-dimensional strains,
+
+10
+00:00:28,470 --> 00:00:31,215
+and soil stiffness and damping update
+
+11
+00:00:31,215 --> 00:00:33,130
+until they converge.
+
+12
+00:00:33,850 --> 00:00:36,890
+It handles spatially varying input,
+
+13
+00:00:36,890 --> 00:00:39,090
+and matches the 1D reference
+
+14
+00:00:39,090 --> 00:00:40,760
+for plane waves.
+
+15
+00:00:41,560 --> 00:00:42,395
+Next:
+
+16
+00:00:42,395 --> 00:00:44,190
+anisotropic soils
+
+17
+00:00:44,190 --> 00:00:46,770
+and 3D material models.
