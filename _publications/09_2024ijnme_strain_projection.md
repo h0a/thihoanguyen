@@ -2,12 +2,12 @@
 title: "9, A locking-free isogeometric thin shell formulation based on higher order accurate diagonalized strain projection via approximate dual splines"
 collection: publications
 permalink: /publications/09_2024ijnme_strain_projection
-excerpt: ' International Journal for Numerical Methods in Engineering (under review), 2026. Read more.'
+excerpt: ' International Journal for Numerical Methods in Engineering (accepted), 2026. Read more.'
 ---
 
 
 <div class="small">
-    International Journal for Numerical Methods in Engineering (under review), 2026.
+    International Journal for Numerical Methods in Engineering (accepted), 2026.
 </div>
 
 <div class="small">
